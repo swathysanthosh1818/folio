@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T06:49:23Z",
+  "generated_at": "2026-06-13T08:28:58Z",
   "total": 4,
   "projects": [
     {
       "name": "folio",
       "description": "No description provided.",
-      "language": "CSS",
+      "language": "HTML",
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/swathysanthosh1818/folio",
