@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-06-13T20:02:51Z",
+  "generated_at": "2026-06-14T20:06:45Z",
   "total": 4,
   "projects": [
-    {
-      "name": "CET-Campus-Guide",
-      "description": "No description provided.",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/jyothsna-ms/CET-Campus-Guide",
-      "homepage": "",
-      "updated": "Jun 2026",
-      "topics": [],
-      "visibility": "public"
-    },
     {
       "name": "folio",
       "description": "No description provided.",
@@ -21,6 +9,18 @@
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/swathysanthosh1818/folio",
+      "homepage": "",
+      "updated": "Jun 2026",
+      "topics": [],
+      "visibility": "public"
+    },
+    {
+      "name": "CET-Campus-Guide",
+      "description": "No description provided.",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/jyothsna-ms/CET-Campus-Guide",
       "homepage": "",
       "updated": "Jun 2026",
       "topics": [],
