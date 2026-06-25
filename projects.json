@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-06-24T20:18:15Z",
+  "generated_at": "2026-06-25T20:31:38Z",
   "total": 5,
   "projects": [
-    {
-      "name": "tide-ai-server",
-      "description": "No description provided.",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/swathysanthosh1818/tide-ai-server",
-      "homepage": "",
-      "updated": "Jun 2026",
-      "topics": [],
-      "visibility": "public"
-    },
     {
       "name": "folio",
       "description": "No description provided.",
@@ -21,6 +9,18 @@
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/swathysanthosh1818/folio",
+      "homepage": "",
+      "updated": "Jun 2026",
+      "topics": [],
+      "visibility": "public"
+    },
+    {
+      "name": "tide-ai-server",
+      "description": "No description provided.",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/swathysanthosh1818/tide-ai-server",
       "homepage": "",
       "updated": "Jun 2026",
       "topics": [],
