@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-06-30T20:30:04Z",
+  "generated_at": "2026-07-01T20:25:14Z",
   "total": 8,
   "projects": [
-    {
-      "name": "CAMPUSGUIDE",
-      "description": "No description provided.",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "url": "https://github.com/swathysanthosh1818/CAMPUSGUIDE",
-      "homepage": "",
-      "updated": "Jun 2026",
-      "topics": [],
-      "visibility": "public"
-    },
     {
       "name": "folio",
       "description": "No description provided.",
@@ -21,6 +9,18 @@
       "stars": 0,
       "forks": 0,
       "url": "https://github.com/swathysanthosh1818/folio",
+      "homepage": "",
+      "updated": "Jun 2026",
+      "topics": [],
+      "visibility": "public"
+    },
+    {
+      "name": "CAMPUSGUIDE",
+      "description": "No description provided.",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "url": "https://github.com/swathysanthosh1818/CAMPUSGUIDE",
       "homepage": "",
       "updated": "Jun 2026",
       "topics": [],
